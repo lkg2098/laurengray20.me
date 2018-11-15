@@ -36,8 +36,8 @@ body{
 
 .inpage{
   display: inline-block;
-  padding: 15px 20px;
-  margin: 0px 50px 50px 50px;
+  padding: 0px 0px;
+  margin: 50px 50px 50px 50px;
   border-radius: 5px;
   color: #f8e8a3;
   text-decoration: none;
