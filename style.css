@@ -20,13 +20,11 @@ body{
     margin:20px;
     color:#e07761;
     position: fixed;
-    float: left;
     width: 100%;
     z-index: 10;
 }
 .heading{
     background-color: #703034;
-    padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
     font-family: "Lucida Blackletter";
@@ -40,7 +38,7 @@ body{
 .inpage{
   display: inline-block;
   padding: 15px 20px;
-  margin: 20px 50px 50px 20px;
+  margin: 0px 50px 50px 20px;
   border-radius: 5px;
   color: #f8e8a3;
   text-decoration: none;
