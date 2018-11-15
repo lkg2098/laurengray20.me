@@ -15,7 +15,6 @@ body{
 
 .navbar{
     background-color: #703034;
-    padding-bottom: 200px;
     text-align: center;
     font-family: "Lucida Blackletter";
     margin:20px;
@@ -41,7 +40,7 @@ body{
 .inpage{
   display: inline-block;
   padding: 15px 20px;
-  margin: 0px 50px 50px 50px;
+  margin: 20px 50px 50px 20px;
   border-radius: 5px;
   color: #f8e8a3;
   text-decoration: none;
