@@ -23,6 +23,7 @@ body{
     color:#e07761;
     grid-row:1/2;
     grid-column: 1 / 6;
+    position: fixed;
 }
 .heading{
     background-color: #703034;
