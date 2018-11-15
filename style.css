@@ -15,12 +15,12 @@ body{
 
 .navbar{
     background-color: #703034;
+    padding-bottom: 200px;
     text-align: center;
     font-family: "Lucida Blackletter";
+    margin:20px;
     color:#e07761;
     position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     z-index: 10;
 }
