@@ -19,6 +19,8 @@ body{
     font-family: "Lucida Blackletter";
     color:#e07761;
     position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
     z-index: 10;
 }
