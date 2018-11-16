@@ -56,6 +56,16 @@ h2{
   font-size:15px;
 }
 
+video{
+  padding: 5%;
+}
+
+p{
+  color: #f8e8a3;
+  font-size: 20px;
+  margin: 0px 100px;
+}
+
 .me{
   height:200px;
   border-radius: 100%;
