@@ -49,7 +49,10 @@ body{
 
 .loadscreen{
   background-color: #703034;
-  padding: 2%;
+  padding: 3%;
+  text-align: center;
+  color:#e07761;
+  font-family: "Lucida Blackletter";
 }
 
 h1{
